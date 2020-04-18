@@ -1,0 +1,13 @@
+C:\Users\Workstation11\Documents\110\aspnetcore\bin\Debug\netcoreapp3.1\aspnetcore.exe
+C:\Users\Workstation11\Documents\110\aspnetcore\bin\Debug\netcoreapp3.1\aspnetcore.deps.json
+C:\Users\Workstation11\Documents\110\aspnetcore\bin\Debug\netcoreapp3.1\aspnetcore.runtimeconfig.json
+C:\Users\Workstation11\Documents\110\aspnetcore\bin\Debug\netcoreapp3.1\aspnetcore.runtimeconfig.dev.json
+C:\Users\Workstation11\Documents\110\aspnetcore\bin\Debug\netcoreapp3.1\aspnetcore.dll
+C:\Users\Workstation11\Documents\110\aspnetcore\bin\Debug\netcoreapp3.1\aspnetcore.pdb
+C:\Users\Workstation11\Documents\110\aspnetcore\obj\Debug\netcoreapp3.1\aspnetcore.csprojAssemblyReference.cache
+C:\Users\Workstation11\Documents\110\aspnetcore\obj\Debug\netcoreapp3.1\aspnetcore.csproj.CoreCompileInputs.cache
+C:\Users\Workstation11\Documents\110\aspnetcore\obj\Debug\netcoreapp3.1\aspnetcore.AssemblyInfoInputs.cache
+C:\Users\Workstation11\Documents\110\aspnetcore\obj\Debug\netcoreapp3.1\aspnetcore.AssemblyInfo.cs
+C:\Users\Workstation11\Documents\110\aspnetcore\obj\Debug\netcoreapp3.1\aspnetcore.dll
+C:\Users\Workstation11\Documents\110\aspnetcore\obj\Debug\netcoreapp3.1\aspnetcore.pdb
+C:\Users\Workstation11\Documents\110\aspnetcore\obj\Debug\netcoreapp3.1\aspnetcore.genruntimeconfig.cache
